@@ -100,7 +100,7 @@ Accounts are stored in `bank_data.json`, keyed by account number:
 ```json
 {
     "100001": {
-        "name": "Kranthi",
+        "name": "Manikanta",
         "age": 21,
         "balance": 5000.0,
         "pin_hash": "$2b$12$...",
@@ -162,7 +162,7 @@ Transfer records additionally store `to_account` / `to_name` (sender side) or `f
 
 ## 👤 Author
 
-**Kunapuri Kranthi**
+**Manikanta Avula**
 
 ---
 
